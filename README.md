@@ -6,7 +6,7 @@
 ## my stack 📜
 <img src="https://img.shields.io/badge/springboot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Spring Secuity-6DB33F?style=flat-square&logo=Spring Secuity&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat-square&logo=Spring Security&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/AmazonAws-232F3E?style=flat-square&logo=AmazonAws&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>
