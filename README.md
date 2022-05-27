@@ -2,7 +2,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HYK97&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 <a href="https://opgc.me/#/users/Hyk97" target="_blank"><img src="https://api.opgc.me/githubs/users/Hyk97/tag/?theme=basic" /></a>
 
-
+<!--
 ## my stack 📜
 <img src="https://img.shields.io/badge/springboot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/></a>
@@ -18,3 +18,4 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/JPA-ED145B?style=flat-square&logo=JPA&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/QueryDsl-20336B?style=flat-square&logo=QueryDsl&logoColor=white"/></a>
+!-->
