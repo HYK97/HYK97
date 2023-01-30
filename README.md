@@ -1,5 +1,6 @@
 Hi there
 
+## Follow me
 
 <a href="https://velog.io/@ddh963963" rel="nofollow">
   <img  src="https://img.shields.io/badge/myblog-20C997?style=flat-square&logo=Velog&logoColor=white"/>
@@ -7,6 +8,7 @@ Hi there
 <a href="mailto:hyeonyong737@gmail.com">
   <img  src="https://img.shields.io/badge/hyeonyong737@gmail.com-8B89CC?style=flat-square&logo=Gmail&logoColor=white"/>
 </a>
+
 
 ## skills
 
