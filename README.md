@@ -25,7 +25,7 @@
 <br>
 
 <a href="https://honey-wisteria-a29.notion.site/4a6c51a21aab49b888fda4be9f1d9414">
-  <img src="https://img.shields.io/badge/이력서-FFFFFF?style=flat-square&logo=Notion&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Resume-FFFFFF?style=flat-square&logo=Notion&logoColor=black"/>
 </a>
 
 <br>
@@ -34,7 +34,7 @@
 ### 📖 MyBlog
 
 <a href="https://velog.io/@ddh963963" rel="nofollow">
-  <img  src="https://img.shields.io/badge/myblog-20C997?style=flat-square&logo=Velog&logoColor=white"/>
+  <img  src="https://img.shields.io/badge/Myblog-20C997?style=flat-square&logo=Velog&logoColor=white"/>
 </a>
 
 <br>
@@ -44,7 +44,7 @@
 
 #### Language & Framework
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/springboot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Springboot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/JPA-ED145B?style=flat-square&logo=JPA&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Mybatis-003B57?style=flat-square&logo=Mybatis&logoColor=white"/></a>
 
