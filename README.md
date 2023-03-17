@@ -40,7 +40,7 @@
 <br>
 <br>
 
-## 🔧 kills
+## 🔧 Skills
 
 #### Language & Framework
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
