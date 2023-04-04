@@ -14,20 +14,32 @@
 - 상황과 문제를 분석하고, 가능한 다양한 방법을 시도하고 비교하여 적합한 기술을 결정합니다.
 - 비용과 효율성을 고려합니다.
 
-<br>
 
-### 🤝 Contact
+## 🤝 Contact
+
 
 
 <a href="https://honey-wisteria-a29.notion.site/4a6c51a21aab49b888fda4be9f1d9414">
   <img src="https://img.shields.io/badge/Resume-FFFFFF?style=flat-square&logo=Notion&logoColor=black"/>
 </a>
 
+## 🔧 Skills
+
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" height="21px" /></a>
+<img src="https://img.shields.io/badge/Springboot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=Mysql&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=Nginx&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/></a>
 <br>
-<br>
-
-<br>
 
 
+<div style="text-align: right">
+  
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHYK97%2Fhit-counter&count_bg=%236E91FF&title_bg=%236E91FF&icon=github.svg&icon_color=%23000000&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHYK97%2Fhit-counter&count_bg=%236E91FF&title_bg=%236E91FF&icon=github.svg&icon_color=%23000000&title=hits&edge_flat=false" align="right"/></a>
+
+</div>
