@@ -25,9 +25,6 @@
     <img src="https://img.shields.io/badge/Resume-FFFFFF?style=flat-square&logo=Notion&logoColor=black"/>
   </a>
   
-  <a href="https://www.linkedin.com/in/%ED%98%84%EC%9A%A9-%EA%B9%80-40a33b25b/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white"/>
-  </a>
 </div>
 
 ## 🔧 Skills
